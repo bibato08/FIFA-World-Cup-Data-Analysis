@@ -93,33 +93,33 @@ The project includes the following visualizations:
 
 ---
 
-### Winner Analysis
-![Winner Analysis](Screenshot%202026-08-06%20222834.png)
+### GOALS SCORED OVER THE YEARS
+![GOALS SCORED OVER THE YEARS](Screenshot%202026-08-06%20222834.png)
 
 ---
 
-### Goals Analysis
-![Goals Analysis](Screenshot%202026-08-06%20222850.png)
+### ATTENDANCE OVER THE YEARS
+![ATTENDANCE OVER THE YEARS](Screenshot%202026-08-06%20222850.png)
 
 ---
 
-### Attendance Analysis
-![Attendance Analysis](Screenshot%202026-08-06%20222905.png)
+### QUALIFIED TEAMS
+![QUALIFIED TEAMS](Screenshot%202026-08-06%20222905.png)
 
 ---
 
-### Host Nation Analysis
-![Host Nation Analysis](Screenshot%202026-08-06%20222914.png)
+### MATCH PLAYED
+![MATCH PLAYED](Screenshot%202026-08-06%20222914.png)
 
 ---
 
-### Team Performance
-![Team Performance](Screenshot%202026-08-06%20222925.png)
+### DISTRIBUTION of WORLD CUP TITLES
+![DISTRIBUTION of WORLD CUP TITLES](Screenshot%202026-08-06%20222925.png)
 
 ---
 
-### Final Visualization
-![Final Visualization](Screenshot%202026-08-06%20222938.png)
+### DISTRIBUTION of GOALS
+![DISTRIBUTION of GOALS](Screenshot%202026-08-06%20222938.png)
 
 ---
 
