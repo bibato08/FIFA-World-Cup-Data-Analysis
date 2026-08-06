@@ -85,3 +85,43 @@ The project includes the following visualizations:
 - Data visualization helps identify long-term trends in FIFA World Cup history.
 
 ---
+
+## 📸 Project Screenshots
+
+### Dashboard
+![Dashboard](Screenshot%202026-08-06%20222813.png)
+
+---
+
+### Winner Analysis
+![Winner Analysis](Screenshot%202026-08-06%20222834.png)
+
+---
+
+### Goals Analysis
+![Goals Analysis](Screenshot%202026-08-06%20222850.png)
+
+---
+
+### Attendance Analysis
+![Attendance Analysis](Screenshot%202026-08-06%20222905.png)
+
+---
+
+### Host Nation Analysis
+![Host Nation Analysis](Screenshot%202026-08-06%20222914.png)
+
+---
+
+### Team Performance
+![Team Performance](Screenshot%202026-08-06%20222925.png)
+
+---
+
+### Final Visualization
+![Final Visualization](Screenshot%202026-08-06%20222938.png)
+
+---
+
+### Power BI Dashboard
+![Power BI Dashboard](s.png)
