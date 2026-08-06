@@ -88,8 +88,8 @@ The project includes the following visualizations:
 
 ## 📸 Project Screenshots
 
-### Dashboard
-![Dashboard](Screenshot%202026-08-06%20222813.png)
+### RUNNERS-UP APPEARENCES
+![RUNNERS-UP APPEARENCES](Screenshot%202026-08-06%20222813.png)
 
 ---
 
@@ -123,5 +123,5 @@ The project includes the following visualizations:
 
 ---
 
-### Power BI Dashboard
-![Power BI Dashboard](s.png)
+### FIFA WORLD CUP WIN BY COUNTRY
+![FIFA WORLD CUP WIN BY COUNTRY](s.png)
